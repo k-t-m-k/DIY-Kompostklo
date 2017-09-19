@@ -16,12 +16,9 @@ Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegang
 
 ![](/assets/Naehrelementbedarf_im_Gemeinschaftsgarten.png)Abbildung: Nährstoffbedarf nach Pflanzenart[^9]
 
-  
 In der Praxis haben wir festgestellt, dass bisher die Mengen des angefallen Urins die verfügbare Anbauflächen überschreiten bzw. das Interesse an einer Urindüngung eingeschränkt vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Diese werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
 
 Mit Berücksichtigung der Hygienisierungsdauer von 6 Monate bedingt dies abhängig vom Veranstaltungsdatum meistens eine Urin-Nutzung im Folgejahr. Eine Lagerung bei starkem Frost könnte problematisch sein, da das Ausdehnen des Urins ein Beschädigen der Container nach sich ziehen kann. Beim Düngen sollten die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Stoffe in Bodenvorräten gespeichert werden können.[^11]
-
-
 
 #### Fäzes
 
@@ -32,6 +29,8 @@ Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark ke
 Während der Hygienisierungsdauer muss der Zugang zu den gesammelten Fäzes beschränkt sein.[^14]
 
 Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden.
+
+
 
 
 
