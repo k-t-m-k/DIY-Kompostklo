@@ -14,7 +14,13 @@ Die im Urin enthaltenen Nährstoffwerte sind von der Ernährung abhängig und un
 
 Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden, möglichst verdünnt mit Wasser bis zu einem Verhältnis von 1:10.[^7] Die Düngung kann jedoch auch Stickstofforientiert nach dem Pflanzenbedarf erfolgen. „Stickstoff gilt als wichtigster Nährstoff, da er wesentlicher Baustein für die Eiweißstoffe der Pflanze ist. Deshalb ist die exakte Ermittlung des optimalen Düngebedarfes besonders wichtig. Während bei zu niedrigem N-Einsatz das mögliche Ertragspotenzial nicht ausgeschöpft wird, kann zu hohe N-Düngung nicht nur zu Mindererträgen, Qualitätseinbußen und ökonomischen Verlusten, sondern auch zu Umweltbelastungen führen\[…\].“[^8] Der Stickstoffbedarf verschiedener Pflanzenarten ist nachfolgend angegeben.
 
-![](/assets/Naehrelementbedarf_im_Gemeinschaftsgarten.png)Abbildung: Nährstoffbedarf nach Pflanzenart[^9]
+| Nährelement | Starkzehrer \[g/m²\] | Mittelzehrer \[g/m²\] | Schwachzehrer \[g/m²\] |
+| :--- | :--- | :--- | :--- |
+| N - Stickstoff | 16 | 10 | 6 |
+| P - Phosphor | 3,1 | 1,8 | 1,3 |
+| K - Kalium | 16,6 | 12,5 | 8,3 |
+
+Tabelle: Nährstoffbedarf nach Pflanzenart[^9]
 
 In der Praxis haben wir festgestellt, dass bisher die Mengen des angefallen Urins die verfügbare Anbauflächen überschreiten bzw. das Interesse an einer Urindüngung eingeschränkt vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Diese werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
 
@@ -29,10 +35,6 @@ Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark ke
 Während der Hygienisierungsdauer muss der Zugang zu den gesammelten Fäzes beschränkt sein.[^14]
 
 Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden.
-
-
-
-
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
 
@@ -50,7 +52,7 @@ Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Un
 
 [^8]: Sächsische Landesanstalt für Landwirtschaft 2007, S. 22
 
-[^9]: Lettow 2015, S.28
+[^9]: Lettow 2015, S.28, detaillierte Erläuterung ebenda
 
 [^10]: vgl. Sächsische Landesanstalt für Landwirtschaft 2007, S. 27, 100kg/ha entspricht 10 g/m²
 
