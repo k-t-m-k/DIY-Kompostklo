@@ -6,17 +6,23 @@ Im Bereich der wasserlosen Toiletten kann zwischen Komposttoiletten und Trockent
 
 #### Einstreu
 
-Statt dem Spülen mit Wasser erfolgt ein Abdecken der Fäzes mit trockenen Material zum Binden von Gerüchen und zur Schaffung eines sinnvollen Gemischs zur Kompostierung. Als Einstreu können groben Holzspänen verwendet werden, ein Gemisch mit Holzkohle ist auch möglich.[^2] Je nach Beimischungen für die Kompostierung sind auch andere Materialien \(u.a. Rindenmulch, Stroh\) möglich. Holzspäne sollten möglichst grob sein um ausreichend Luftzufuhr für die Abbauprozesse zu bieten.Das Einstreu bindet weiterhin die Feuchtigkeit im Sammelbehälter. Ein Wassergehalt kleiner als 65% hat negative Auswirkungen auf die Bildung von Fliegenlarven\[[2](#sdfootnote2sym)\]und verbessert die Hygienisierung des Komposts.\[[3](#sdfootnote3sym)\]Das Einstreu kann auch von kommerziell Anbietenden gekauft werden.\[[4](#sdfootnote4sym)\]
+Statt dem Spülen mit Wasser erfolgt ein Abdecken der Fäzes mit trockenen Material zum Binden von Gerüchen und zur Schaffung eines sinnvollen Gemischs zur Kompostierung. Als Einstreu können groben Holzspänen verwendet werden, ein Gemisch mit Holzkohle ist auch möglich.[^2] Je nach Beimischungen für die Kompostierung sind auch andere Materialien \(u.a. Rindenmulch, Stroh\) möglich. Holzspäne sollten möglichst grob sein um ausreichend Luftzufuhr für die Abbauprozesse zu bieten.Das Einstreu bindet weiterhin die Feuchtigkeit im Sammelbehälter. Ein Wassergehalt kleiner als 65% hat negative Auswirkungen auf die Bildung von Fliegenlarven[^3] und verbessert die Hygienisierung des Komposts.[^4] Das Einstreu kann auch von kommerziell Anbietenden gekauft werden.[^5]
 
-[1](#sdfootnote1anc) vgl. Napp 2015, S. 64
 
-[2](#sdfootnote2anc)vgl. Naudascher 2001, S. 14
+
+
 
 [3](#sdfootnote3anc)vgl. Napp 2015, S. 51
 
 [4](#sdfootnote4anc)z.B. www.terrapellet.de
 
-[^1]: DWA 2009, S. 7
+[^1]: vgl. DWA 2009, S. 7
 
 [^2]: vgl. Napp 2015, S. 64
+
+[^3]: vgl. Naudascher 2001, S. 14
+
+[^4]: vgl. Napp 2015, S. 51
+
+[^5]: z.B. [Terrapellet](/www.terrapellet.de)
 
