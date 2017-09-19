@@ -10,8 +10,8 @@
 * [Konstruktion](konstruktion.md)
   * [Toilette](konstruktion/toilette.md)
     * [Kabine](konstruktion/toilette/kabine.md)
-    * Sitz
-    * Einrichtung
+    * [Sitz](konstruktion/toilette/sitz.md)
+    * [Einrichtung](konstruktion/toilette/einrichtung.md)
   * [Urinale](konstruktion/sitz.md)
     * Hock-Urinale
     * Steh-Urinale
