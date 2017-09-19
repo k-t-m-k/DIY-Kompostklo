@@ -14,7 +14,9 @@ Die im Urin enthaltenen Nährstoffwerte sind von der Ernährung abhängig und un
 
 Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden, möglichst verdünnt mit Wasser bis zu einem Verhältnis von 1:10.[^7] Die Düngung kann jedoch auch Stickstofforientiert nach dem Pflanzenbedarf erfolgen. „Stickstoff gilt als wichtigster Nährstoff, da er wesentlicher Baustein für die Eiweißstoffe der Pflanze ist. Deshalb ist die exakte Ermittlung des optimalen Düngebedarfes besonders wichtig. Während bei zu niedrigem N-Einsatz das mögliche Ertragspotenzial nicht ausgeschöpft wird, kann zu hohe N-Düngung nicht nur zu Mindererträgen, Qualitätseinbußen und ökonomischen Verlusten, sondern auch zu Umweltbelastungen führen\[…\].“[^8] Der Stickstoffbedarf verschiedener Pflanzenarten ist nachfolgend angegeben.
 
-![](/assets/Naehrelementbedarf_im_Gemeinschaftsgarten.png)	
+![](/assets/Naehrelementbedarf_im_Gemeinschaftsgarten.png)Abbildung: Nährstoffbedarf nach Pflanzenart[^9]
+
+
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
 
@@ -32,5 +34,5 @@ Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegang
 
 [^8]: Sächsische Landesanstalt für Landwirtschaft 2007, S. 22
 
-[^9]:  Lettow 2015, S.28
+[^9]: Lettow 2015, S.28
 
