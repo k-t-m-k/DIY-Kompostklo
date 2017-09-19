@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1\_Einleitung](einleitung.md)
+* [Einleitung](1_einleitung.md)
 * [Grundlagen Trockentrenntoilette](grundlagen-trockentrenntoilette.md)
   * [Motivation](grundlagen-trockentrenntoilette/motivation.md)
   * [Funktionsweise](grundlagen-trockentrenntoilette/funktionsweise.md)
