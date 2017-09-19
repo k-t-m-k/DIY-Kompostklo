@@ -8,7 +8,7 @@ Auf vielen unkommerziellen, selbstorganisierten Eintagesveranstaltungen, Kongres
 
 Mit diesem Dokument wollen wir eine frei verfügbare Grundlage schaffen, Wissen und  
  Konzepte rund um das Thema mobile Trockentrenntoiletten kollaborativ voranzutreiben. Wir  
- verstehen dies als Dokumentation unseres Wissensstands und unserer Erfahrungen die wir  
+ verstehen dies als Dokumentation unseres Wissensstands und unserer Erfahrungen, die wir  
  seit 2014 gesammelt haben. Ziel ist dies so umfassend und in einer Tiefe zu gestalten, dass  
  andere Gruppen selbstständig eine eigene Lösung planen, bauen und betreiben können.  
  Anwendungsfeld sind Veranstaltungen mit mehreren hundert Menschen. Stationäre,  
