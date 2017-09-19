@@ -16,6 +16,23 @@ Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegang
 
 ![](/assets/Naehrelementbedarf_im_Gemeinschaftsgarten.png)Abbildung: Nährstoffbedarf nach Pflanzenart[^9]
 
+  
+In der Praxis haben wir festgestellt, dass bisher die Mengen des angefallen Urins die verfügbare Anbauflächen überschreiten bzw. das Interesse an einer Urindüngung eingeschränkt vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Diese werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
+
+Mit Berücksichtigung der Hygienisierungsdauer von 6 Monate bedingt dies abhängig vom Veranstaltungsdatum meistens eine Urin-Nutzung im Folgejahr. Eine Lagerung bei starkem Frost könnte problematisch sein, da das Ausdehnen des Urins ein Beschädigen der Container nach sich ziehen kann. Beim Düngen sollten die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Stoffe in Bodenvorräten gespeichert werden können.[^11]
+
+
+
+#### Fäzes
+
+Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark keimreduzierende Nachbehandlung \(Hygienisierung\). Möglichkeiten bieten sich per Kompostierung oder thermischer Nachbehandlung. Über den Umfang der nötigen Hygienisierungsdauer bzw. den dabei nötigen Temperaturen sowie Art und Umfang der zu betrachtenden Krankheitserreger gibt es unterschiedliche Ansichten. Während die WHO ein Ablagern bei 2-20°C für eine Dauer von 1,5-2 Jahren als ausreichend sieht, ist eine Anwendung der Bioabfallverordnung \(BioAbfV\) auf die Hygienisierung von Fäzes deutlich anspruchsvoller. Sie gibt Rahmendaten zur Behandlung vor, nach der eine Prozessprüfung, Prozessüberwachung und Prüfung der hygienisierten Bioabfälle nötig ist.[^12]
+
+> „Die Prozesssteuerung in Kompostierungsanlagen muss für die Hygienisierung der Bioabfälle so vorgenommen werden, dass über mehrere Wochen ein thermophiler Temperaturbereich und eine hohe biologische Aktivität bei günstigen Feuchte- und Nährstoffverhältnissen sowie eine optimale Struktur und Luftführung gewährleistet sind. Der Wassergehalt soll mindestens 40 % betragen und der pH-Wert um 7 liegen. Im Verlauf der aeroben hygienisierenden Behandlung muss eine Temperatur von mindestens 55 °C über einen möglichst zusammenhängenden Zeitraum von 2 Wochen, von 60 °C über 6 Tage oder von 65 °C über 3 Tage auf das gesamte Rottematerial einwirken.”[^13]
+
+Während der Hygienisierungsdauer muss der Zugang zu den gesammelten Fäzes beschränkt sein.[^14]
+
+Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden.
+
 
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
@@ -35,4 +52,14 @@ Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegang
 [^8]: Sächsische Landesanstalt für Landwirtschaft 2007, S. 22
 
 [^9]: Lettow 2015, S.28
+
+[^10]: vgl. Sächsische Landesanstalt für Landwirtschaft 2007, S. 27, 100kg/ha entspricht 10 g/m²
+
+[^11]: Sächsische Landesanstalt für Landwirtschaft 2007, S. 22-24
+
+[^12]: Lettow 2015, S. 34-42
+
+[^13]: BioAbfV, Anhang 2, Abschnitt 2.2.2.1
+
+[^14]: vgl. Schönning and Stenström, 2004
 
