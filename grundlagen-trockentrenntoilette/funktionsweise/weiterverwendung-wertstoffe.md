@@ -1,6 +1,6 @@
-### Weiterverwendung Wertstoffe
+## Weiterverwendung Wertstoffe
 
-#### Urin
+### Urin
 
 Urin ist üblicherweise unbedenklich und bakteriologisch steril, bei akuten Erkrankungen können jedoch Keime enthalten sein.[^1] Mittels Ablagerung bzw. Abstehen über einen Zeitraum von 6 Monaten bei 4°C können Krankheitserreger sicher auf ein ungefährliches Maß reduziert werden. Pflanzen die frisch verzehrt werden, sollten nur mit Urin gedüngt werden, der bei über 20°C gelagert wird.[^2] Eine Düngung sollte nicht innerhalb des Zeitraums von einem Monat vor der Ernte erfolgen.[^3] Über den Urin werden Medikament- und Hormonrückstände ausgeschieden.[^4]
 
@@ -26,7 +26,7 @@ In der Praxis haben wir festgestellt, dass bisher die Mengen des angefallen Urin
 
 Mit Berücksichtigung der Hygienisierungsdauer von 6 Monate bedingt dies abhängig vom Veranstaltungsdatum meistens eine Urin-Nutzung im Folgejahr. Eine Lagerung bei starkem Frost könnte problematisch sein, da das Ausdehnen des Urins ein Beschädigen der Container nach sich ziehen kann. Beim Düngen sollten die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Stoffe in Bodenvorräten gespeichert werden können.[^11]
 
-#### Fäzes
+### Fäzes
 
 Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark keimreduzierende Nachbehandlung \(Hygienisierung\). Möglichkeiten bieten sich per Kompostierung oder thermischer Nachbehandlung. Über den Umfang der nötigen Hygienisierungsdauer bzw. den dabei nötigen Temperaturen sowie Art und Umfang der zu betrachtenden Krankheitserreger gibt es unterschiedliche Ansichten. Während die WHO ein Ablagern bei 2-20°C für eine Dauer von 1,5-2 Jahren als ausreichend sieht, ist eine Anwendung der Bioabfallverordnung \(BioAbfV\) auf die Hygienisierung von Fäzes deutlich anspruchsvoller. Sie gibt Rahmendaten zur Behandlung vor, nach der eine Prozessprüfung, Prozessüberwachung und Prüfung der hygienisierten Bioabfälle nötig ist.[^12]
 
