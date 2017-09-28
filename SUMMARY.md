@@ -16,5 +16,8 @@
     * [Hock-Urinale](konstruktion/sitz/hock-urinale.md)
     * [Steh-Urinale](konstruktion/sitz/steh-urinale.md)
   * [Weiteres](konstruktion/weiteres.md)
-  * Andere Bauvariationen
+  * [Andere Bauvariationen](konstruktion/andere-bauvariationen.md)
+    * [El Projecto Caca](konstruktion/andere-bauvariationen/el-projecto-caca.md)
+    * [Open Air Gelände Berlin](konstruktion/andere-bauvariationen/open-air-gelande-berlin.md)
+    * [KTMK ältere Versionen](konstruktion/andere-bauvariationen/ktmk-altere-versionen.md)
 
