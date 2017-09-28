@@ -28,3 +28,9 @@ Im zweiten Beispiel ist zusätzlich der gesamte Bereich noch mit einem Sieb \(hi
 
 
 
+#### Abwasserrohr mit oder ohne Teichfolie
+
+Ein Rohr mit Durchmesser &gt; 30 cm wird aufgeschnitten. Optional mit Rückwand aus Teichfolie die in das Rohr ableitet. Ableitung analog Hockurinal Bauform 2 – Ablaufrohr.
+
+![](/assets/Bild_Stehurinal_Rohr_05-2015.jpg)
+
