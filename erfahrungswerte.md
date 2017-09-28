@@ -7,7 +7,6 @@ Ziel dieses Abschnitts ist eine möglich umfangreiche Sammlung von Erfahrungswer
 * Anzahl, Lage, Beschilderung und Qualität der Urinale, sowie Einstellung zum „Wildpinkeln“
 * bei Festivals bringen Gäste oft eigenes Toilettenpapier mit
 
-  
 
 
 | Veranstaltung | Personen-Tage\* | Anzahl Toiletten insgesamt | Anzahl Trocken-trenn-Toiletten | Anzahl Urinale | Menge Urin in l | Menge Fäzes in l | Toiletten-papier in Rollen | Ein-streu in l |
