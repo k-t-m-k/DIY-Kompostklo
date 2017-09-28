@@ -15,6 +15,6 @@
   * [Urinale](konstruktion/sitz.md)
     * [Hock-Urinale](konstruktion/sitz/hock-urinale.md)
     * [Steh-Urinale](konstruktion/sitz/steh-urinale.md)
-  * Weiteres
+  * [Weiteres](konstruktion/weiteres.md)
   * Andere Bauvariationen
 
