@@ -20,4 +20,7 @@
     * [El Projecto Caca](konstruktion/andere-bauvariationen/el-projecto-caca.md)
     * [Open Air Gelände Berlin](konstruktion/andere-bauvariationen/open-air-gelande-berlin.md)
     * [KTMK ältere Versionen](konstruktion/andere-bauvariationen/ktmk-altere-versionen.md)
+* [Planung](planung.md)
+  * [Dimensionierung](dimensionierung.md)
+  * [Erfahrungswerte](erfahrungswerte.md)
 
