@@ -13,7 +13,7 @@
     * [Sitz](konstruktion/toilette/sitz.md)
     * [Einrichtung](konstruktion/toilette/einrichtung.md)
   * [Urinale](konstruktion/sitz.md)
-    * Hock-Urinale
+    * [Hock-Urinale](konstruktion/sitz/hock-urinale.md)
     * Steh-Urinale
   * Weiteres
   * Andere Bauvariationen
