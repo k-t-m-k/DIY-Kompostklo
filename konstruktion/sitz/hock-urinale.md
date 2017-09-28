@@ -14,7 +14,7 @@ Zwei Gitterrohr-Tritte \(23 cm \* 71 cm\) werden mit Dachlatten erhöht \(ca. 20
 
 Es gab keine negativen Erfahrungen mit der Bauform. Einige Nutzer\*innen waren sich unsicher in welcher Blickrichtung gehockt werden sollte. Wenn für die Funktion auch irrelevant, beugt ein Fahrradlenker dem vor und bietet auch noch Haltemöglichkeiten.
 
-|  |  |
+| ![](/assets/Bild_Hockurinal_vorne_09-2015.jpg)​ | ![](/assets/Bild_Hockurinal_hinten_09-2015.jpg) |
 | :--- | :--- |
 
 
