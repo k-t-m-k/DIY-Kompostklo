@@ -36,5 +36,5 @@ Nachteile:
 
 Die stärkeren Balken wurden gegen die aktuell verwendeten 45 mm starken ersetzt. Auf einen Mittelbalken und Querbalken für den Boden wurde verzichtet und der Boden in die Konstruktion gelegt. Das einlegen des Bodens hat sich nicht als vorteilhaft erwiesen, der Sitz war zu tief und die Kabine insgesamt zu instabil. In Version 2.1 wurde der Mittelbalken wieder verwendet.
 
-
+![](/assets/Bild_KTMK-doppel_2-0_Konstruktion.jpg)
 
