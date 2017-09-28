@@ -6,11 +6,7 @@ Bisher wurden drei Bauformen umgesetzt, wovon die erste Lösung als beste Beurte
 * Ablaufrohr
 * Aufgeschnittener Kanister
 
-
-
 Allgemein sollten die Urinale einen ausreichenden Sichtschutz bieten. Bei mehrtägigen Veranstaltungen hat die genderneutrale Bezeichnung zu sehr wenigen Missverständnissen geführt. Einzelne Urinale können auch mit dem Gerüst der Toilettenkabine kombiniert werden. Neben ausreichender Beleuchtung ist Toilettenpapier und ein Mülleimer für das benutzte Toilettenpapier nötig.
-
-
 
 #### Erhöhter Tritt mit Ablaufrinne
 
@@ -18,6 +14,8 @@ Zwei Gitterrohr-Tritte \(23 cm \* 71 cm\) werden mit Dachlatten erhöht \(ca. 20
 
 Es gab keine negativen Erfahrungen mit der Bauform. Einige Nutzer\*innen waren sich unsicher in welcher Blickrichtung gehockt werden sollte. Wenn für die Funktion auch irrelevant, beugt ein Fahrradlenker dem vor und bietet auch noch Haltemöglichkeiten.
 
+|  |  |
+| :--- | :--- |
 
 
 [^1]: Arithmetisches Mittel bevorzugter Abstand der Tritte einer Stichprobe von 30 Personen auf der Veranstaltung
