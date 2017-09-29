@@ -23,4 +23,5 @@
 * [Planung](planung.md)
   * [Dimensionierung](dimensionierung.md)
   * [Erfahrungswerte](erfahrungswerte.md)
+  * [Kosten](kosten.md)
 
