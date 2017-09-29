@@ -24,4 +24,5 @@
   * [Dimensionierung](dimensionierung.md)
   * [Erfahrungswerte](erfahrungswerte.md)
   * [Kosten](kosten.md)
+  * [Veranstaltungsplanung](veranstaltungsplanung.md)
 
