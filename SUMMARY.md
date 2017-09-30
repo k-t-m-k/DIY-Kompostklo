@@ -25,4 +25,9 @@
   * [Erfahrungswerte](erfahrungswerte.md)
   * [Kosten](kosten.md)
   * [Veranstaltungsplanung](veranstaltungsplanung.md)
+* [Betrieb](betrieb.md)
+  * [Hygiene öffentlicher Toiletten](betrieb/hygiene-offentlicher-toiletten.md)
+  * [Arbeitsschutz](betrieb/arbeitsschutz.md)
+    * [Gefährdungspotenziale und Bewertung](betrieb/arbeitsschutz/gefahrdungspotenziale-und-bewertung.md)
+    * [Schutzmaßnahmen](betrieb/arbeitsschutz/schutzmassnahmen.md)
 
