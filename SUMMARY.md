@@ -30,4 +30,7 @@
   * [Arbeitsschutz](betrieb/arbeitsschutz.md)
     * [Gefährdungspotenziale und Bewertung](betrieb/arbeitsschutz/gefahrdungspotenziale-und-bewertung.md)
     * [Schutzmaßnahmen](betrieb/arbeitsschutz/schutzmassnahmen.md)
+  * [Wechseln von Behältern](betrieb/wechseln-von-behaltern.md)
+* [Hygienisierung und Weiterverwendung](hygienisierung-und-weiterverwendung.md)
+  * [Urin](hygienisierung-und-weiterverwendung/urin.md)
 

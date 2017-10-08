@@ -6,29 +6,19 @@
 
 Weiterhin ist ein Kontakt mit Blut ist über verwendete Menstruations-Hygieneprodukte möglich.
 
-
-
 #### Expositionsmöglichkeiten
-
-
 
 Reinigung:
 
-Über Schmierinfektion gelangen Krankheitserreger über die Hände in den Mund oder auf die Schleimhäute. Dies ist z.B. beim Essen und  Trinken,  Rauchen, dem Reiben der Augenwinkel sowie über verletzte, rissige oder aufgeweichte Haut möglich. Auch Arbeitshandschuhe können bei längerer Benutzung Keime innerhalb des Handschuhs enthalten und sich aufgrund der Bedingungen dort halten bzw. auch vermehren. Weiterhin ist eine indirekte Schmierinfektion über die getragene Kleidung möglich.[^2] Starke Fäkale Verunreinigungen kommen selten aber dennoch vor. Im Mülleimer finden sich verwendete Menstruations-Hygieneprodukte und \(oftmals auch trotz Hinweisschildern\) fäkal verunreinigtes Toilettenpapier. Aufgewirbelte Keime z.B. durch Hochdruckreiniger oder ggf.  auch Besen können auch über die Lunge eine Infektion hervorrufen, die Eindringtiefer der Partikel in die Lunge ist u.a. dabei relevant.[^3]
-
-
+Über Schmierinfektion gelangen Krankheitserreger über die Hände in den Mund oder auf die Schleimhäute. Dies ist z.B. beim Essen und  Trinken,  Rauchen, dem Reiben der Augenwinkel sowie über verletzte, rissige oder aufgeweichte Haut möglich. Auch Arbeitshandschuhe können bei längerer Benutzung Keime innerhalb des Handschuhs enthalten und sich aufgrund der Bedingungen dort halten bzw. auch vermehren. Weiterhin ist eine indirekte Schmierinfektion über die getragene Kleidung möglich.[^2] Starke fäkale Verunreinigungen kommen selten aber dennoch vor. Im Mülleimer finden sich verwendete Menstruations-Hygieneprodukte und \(oftmals auch trotz Hinweisschildern\) fäkal verunreinigtes Toilettenpapier. Aufgewirbelte Keime z.B. durch Hochdruckreiniger können auch über die Lunge eine Infektion hervorrufen, die Eindringtiefer der Partikel in die Lunge ist u.a. dabei relevant.[^3]
 
 Wechseln von Behältern/ Arbeiten im Sammelraum:
 
 Risiko der fäkal-oralen Übertragung durch direkten Kontakt, insbesondere durch Umkippen von oder Stürzen mit offenen Behältern.
 
-
-
-Kompostierung/Hygienisierung:
+Kompostierung/ Hygienisierung:
 
 Risiko der fäkal-oralen Übertragung durch direkten Kontakt bzw. indirekt über verwendete Werkzeuge oder durch Umkippen von oder Stürzen mit offenen Behältern.
-
-
 
 Auf- und Abbau:
 
