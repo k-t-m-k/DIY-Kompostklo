@@ -33,4 +33,7 @@
   * [Wechseln von Behältern](betrieb/wechseln-von-behaltern.md)
 * [Hygienisierung und Weiterverwendung](hygienisierung-und-weiterverwendung.md)
   * [Urin](hygienisierung-und-weiterverwendung/urin.md)
+    * [Ausbringen per IBC und Fahrzeug](hygienisierung-und-weiterverwendung/urin/ausbringen-per-ibc-und-fahrzeug.md)
+    * [Weitere Ausbringmöglichkeiten](hygienisierung-und-weiterverwendung/urin/andere-uberlegungen.md)
+  * Fäzes
 
