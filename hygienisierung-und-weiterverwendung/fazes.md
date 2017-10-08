@@ -49,6 +49,10 @@ Der Zugang zur Kompostmiete sollte beschränkt sein. Damit keine Keime während 
 
 
 
+|  |  |
+| :--- | :--- |
+|  |  |
+
 [^1]: vgl. Krause, Jacobsen 2011, S. 11
 
 [^2]: DBU 2012, S. 26
@@ -61,7 +65,7 @@ Der Zugang zur Kompostmiete sollte beschränkt sein. Damit keine Keime während 
 
 [^6]: vgl. DBU 2012 S. 27
 
-[^7]: einfache Temperatursensoren sind u. a. mit einem Raspberry Pi möglich \([http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/](http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/) oder [https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\](https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\)\)
+[^7]: einfache Temperatursensoren sind u. a. mit einem Raspberry Pi möglich \([http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/](http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/) oder [https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\](https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/%29\)
 
 [^8]: DBU 2012 S. 27
 
