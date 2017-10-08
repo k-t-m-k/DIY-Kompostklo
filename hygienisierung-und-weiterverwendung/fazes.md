@@ -37,8 +37,6 @@ Durch Zugabe von 1/3 frischem Grasschnitt \(oder anderem frischen, Kohlenstoffha
 
 Für eine erfolgreiche Wurmkompostierung, müssen jedoch Temperatur in der Miete \(10-35°C\), Wassergehalt \(50-85%\), Salzgehalt und Schichtung der Miete beachtet werden und eine Mindestkompostierungsdauer von 6 Monaten nicht unterschritten werden.[^9]
 
-
-
 ### Anlegen einer Kompostmiete
 
 Beim Anlegen eines Komposts für menschliche Fäkalien ist an dieser Stelle auf die rechtlichen Rahmenbedingungen verwiesen. Um zu verhindern, dass größere Mengen Pathogene, also Fäkalien vor der Hygienisierung, in die Umwelt gelangen, sollte der Kompost mit besonderer Aufmerksamkeit angelegt werden.
@@ -48,8 +46,6 @@ Der Zugang zur Kompostmiete sollte beschränkt sein. Damit keine Keime während 
 > Die Fäkalien werden im Komposter zwischengelagert, bis die Mindestmenge von 0,5 m³ erreicht wird. Die Thermophase soll bei Außentemperaturen &gt; 15°C durchgeführt werden. Für die bequeme Umschichtung des Materials während der Kompostierung sind zwei Komposter von Vorteil. Zum Beginn der Thermophase werden die Fäzes mit einem frischen, C-reichen Substrat \(z.B. frischer Gras-schnitt\) und eventuell 5 kg gelöster Industriezucker \(10 kg/1m³ Fäzes\) vermengt. Die Menge von Zuschlagstoffen soll ca. 1⁄3 der gesamten Kompostiermasse betragen. Die Schichtung ist der \[nachfolgenden Abbildung \] zu entnehmen. Nach 6 Tagen wird die Kompostmasse zum ersten Mal umgesetzt, indem die obere Schicht der Zuschlagstoffe auf neue Häckselschicht und darauf der Rest, gut vermischt, aufgetragen wird. Nach weiteren 20 Tagen erfolgt die 2. Umsetzung unter der Zugabe von 5% Erde. Nach weite-ren 2 bis 3 Monaten wird die Kompostmasse zum letzten Mal umgesetzt. Die heiß kompostierte Masse soll danach für 1 Jahr nachkompostiert werden.[^10]
 
 ![](/assets/Darstellung_kompost-umsetzen.PNG)Darstellung umsetzen Kompost[^11]
-
-
 
 
 
@@ -65,7 +61,7 @@ Der Zugang zur Kompostmiete sollte beschränkt sein. Damit keine Keime während 
 
 [^6]: vgl. DBU 2012 S. 27
 
-[^7]: einfache Temperatursensoren sind u. a. mit einem Raspberry Pi möglich \(http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/ oder https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\)
+[^7]: einfache Temperatursensoren sind u. a. mit einem Raspberry Pi möglich \([http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/](http://www.instructables.com/id/Raspberry-Pi-Temperature-Logger/) oder [https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\](https://www.raspberrypi-spy.co.uk/2015/06/basic-temperature-logging-to-the-internet-with-raspberry-pi/\)\)
 
 [^8]: DBU 2012 S. 27
 
