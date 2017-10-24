@@ -4,11 +4,11 @@ Bau und Betrieb von mobilen Trockentrenntoiletten
 
 Kollektiv für Trockentoiletten-Manufaktur-Kunst Lichtenberg
 
-[k-t-m-k.github.io](https://k-t-m-k.github.io/\)
+[k-t-m-k.github.io](https://k-t-m-k.github.io)
 
 ## Content
 
-Collaborative handbook to build and run DIY composting toilets. Read and edit at \[gitbook\]\([/gitbook.com/book/k-t-m-k/diy-kompostklo\) ](/gitbook.com/book/k-t-m-k/diy-kompostklo )or \[github\]\([https://github.com/k-t-m-k/DIY-Kompostklo](https://github.com/k-t-m-k/DIY-Kompostklo)\). The document is only available in german language.
+Collaborative handbook to build and run DIY composting toilets. Read and edit at [gitbook](gitbook.com/book/k-t-m-k/diy-kompostklo) or [github](github.com/k-t-m-k/DIY-Kompostklo). The document is only available in german language.
 
 ## License
 
