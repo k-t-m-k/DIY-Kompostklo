@@ -12,5 +12,5 @@ Collaborative handbook to build and run DIY composting toilets. Read and edit at
 
 ## License
 
-The document is licensed under \[Creative Commons Attribution 4.0 International \(CC BY 4.0\)\]\([https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/%29%29%29\).
+The document is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0).
 
