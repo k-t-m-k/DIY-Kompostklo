@@ -1,4 +1,4 @@
-* [ ] ## **Hygienisierung von Fäzes**
+## **Hygienisierung von Fäzes**
 
 Aufgrund der im Kot enthaltenen Pathogene, muss die Anzahl dieser zu Weiterverwendung deutlich reduziert werden. Als Möglichkeiten der Hygeniserung gibt es folgende:
 
@@ -47,15 +47,11 @@ Der Zugang zur Kompostmiete sollte beschränkt sein. Damit keine Keime während 
 
 ![](/assets/Darstellung_kompost-umsetzen.PNG)Darstellung umsetzen Kompost[^11]
 
-
-
 | ​![](/assets/Bild_Kompost-1.jpg) | ![](/assets/Bild_Kompost-2.jpg) |
 | :--- | :--- |
 | ![](/assets/Bild_Kompost-3.jpg) | ![](/assets/Bild_Kompost-4.jpg) |
 
 Bild: Aufbau eines Komposts
-
-
 
 [^1]: vgl. Krause, Jacobsen 2011, S. 11
 
