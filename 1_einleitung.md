@@ -1,10 +1,6 @@
 # Einleitung
 
-Auf vielen unkommerziellen, selbstorganisierten Eintagesveranstaltungen, Kongressen und  
- Festivals werden bereits Komposttoiletten \(Sammeln von Fäkalien\) oder  
- Trockentrenntoiletten \(getrenntes Sammeln von Urin und Fäzes\) verwendet. Charakteristisch  
- für diese wasserlosen Toiletten ist ein Abdecken des „Geschäfts“ mit Einstreumaterial wie  
- beispielsweise Holzspänen.
+Auf vielen unkommerziellen, selbstorganisierten Eintagesveranstaltungen, Kongressen und Festivals werden bereits Komposttoiletten \(Sammeln von Fäkalien\) oder Trockentrenntoiletten \(getrenntes Sammeln von Urin und Fäzes\) verwendet. Charakteristisch für diese wasserlosen Toiletten ist ein Abdecken des „Geschäfts“ mit Einstreumaterial wie beispielsweise Holzspänen.
 
 Mit diesem Dokument wollen wir eine frei verfügbare Grundlage schaffen, Wissen und  
  Konzepte rund um das Thema mobile Trockentrenntoiletten kollaborativ voranzutreiben. Wir  
