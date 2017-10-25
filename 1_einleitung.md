@@ -17,8 +17,7 @@ Ausgehend von den Grundlagen des ersten Kapitels zu Begriffen, Funktionsweisen,
  diskutiert. Die Planung zur Umsetzung im Rahmen von Veranstaltungen wird in Kapitel 4  
  beschrieben, wobei der Arbeiter\*innenschutz in einem eigenständigen, darauffolgenden  
  Kapitel dargestellt wird. Wissen und Erfahrungen zur Kompostierung von Fäzes werden in  
- Kapitel 6 behandelt  
-.
+ Kapitel 6 behandelt.
 
 Ergänzt wird dieses Dokument durch eine Fotoanleitung zum Aufbau unserer aktuell  
  verwendeten Kabine sowie eine Tabellenkalkulation zur Veranstaltungsplanung.
