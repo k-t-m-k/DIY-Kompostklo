@@ -34,7 +34,7 @@ Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark ke
 
 Während der Hygienisierungsdauer muss der Zugang zu den gesammelten Fäzes beschränkt sein.[^14]
 
-Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden.
+Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden. Bundeslandabhängig werden Klärschlammabfälle kompostiert. Einzelne Kompostierungswerke dürfen Fäkalien daher annehmen.[^15]
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
 
@@ -63,4 +63,6 @@ Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Un
 [^13]: BioAbfV, Anhang 2, Abschnitt 2.2.2.1
 
 [^14]: vgl. Schönning and Stenström, 2004
+
+[^15]: vgl. http://www.luis.brandenburg.de/a/asys/A7100022/default.aspx?p1=KOM, z. B. www.urd-grueneberg.de
 
