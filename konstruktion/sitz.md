@@ -6,7 +6,7 @@ Die Abflüsse der Urinale können jeweils in einen separaten Urinsammelbehälter
 
 ![](/assets/Bild_kombi-urinal_07-17.jpg)
 
-Bild: Kombiniertes Hock- und Stehurinal
+Bild: Kombiniertes Hock- und Stehurinal \(KTMK, 2017\)
 
 [^1]: Insbesondere Hockurinale sind zwar wenig verbreitet, bisher waren je nach Bauweise die Annahmequote zur Benutzung statt der Toilettenkabine sehr hoch
 

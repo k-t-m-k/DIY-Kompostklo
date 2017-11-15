@@ -16,16 +16,14 @@ Teichfolie dehnt sich unter der Gewichtslast des Urins aus und bildet Sammelstel
 
 | ![](/assets/Bild_Stehurinal_ganz_07-2015.jpg) | ![](/assets/Bild_Stehurinal_ablauf_07-2015.jpg) |
 | :--- | :--- |
-
+| Bild: Stehrurinal einfach \(KTMK, 2015\) | Bild: Stehurinal Ablauf, Anschluss abgetrennt \(KTMK, 2015\) |
 
 Im zweiten Beispiel ist zusätzlich der gesamte Bereich noch mit einem Sieb \(hier genutzt: Baustoff für Häuserfassaden\) überspannt. Ursprünglich zur Vermeidung von Verstopfungen im Ablauf gedacht, entstehen so am Urinal keine Spritzer. Die Lösung wird von den Nutzendenals Vorteil gegenüber Pissrinnen ohne Sieb wahrgenommen.
 
-![](/assets/Bild_Stehurinal_Sieb_05-2016.jpg)
+![](/assets/Bild_Stehurinal_Sieb_05-2016.jpg)Bild: Stehurinal mit Netz \(KTMK, 2016\)
 
-| ![](/assets/Bild_Stehurinal_Teichfolie_05-2016.jpg)​ | ![](/assets/Bild_Stehurinal_Ablauf_05-2016.jpg) |
+| ![](/assets/Bild_Stehurinal_Teichfolie_05-2016.jpg)​Bild: Stehurinal oberes Ende \(KTMK, 2016\) | ![](/assets/Bild_Stehurinal_Ablauf_05-2016.jpg)Bild: Stehurinal Ablauf \(KTMK, 2016\) |
 | :--- | :--- |
-
-
 
 
 #### Abwasserrohr mit oder ohne Teichfolie
@@ -33,4 +31,6 @@ Im zweiten Beispiel ist zusätzlich der gesamte Bereich noch mit einem Sieb \(hi
 Ein Rohr mit Durchmesser &gt; 30 cm wird aufgeschnitten. Optional mit Rückwand aus Teichfolie die in das Rohr ableitet. Ableitung analog Hockurinal Bauform 2 – Ablaufrohr.
 
 ![](/assets/Bild_Stehurinal_Rohr_05-2015.jpg)
+
+Bild: Stehurinal Abwasserrohr \(KTMK, 2015\)
 
