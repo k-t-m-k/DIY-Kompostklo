@@ -1,8 +1,10 @@
-## Funktionsweise
+## Funktionsweise der Trockentrenntoilette
+
+Fäkalien setzen sich zu 90 % aus vergleichsweise leicht nachzubehandelndem Urin und zu 10 % aus stark keimbelasteten Fäzes zusammen. Im Bereich der wasserlosen Toiletten kann zwischen Komposttoiletten und Trockentrenntoiletten unterscheiden werden. Komposttoiletten sammeln Fäkalien, also Urin und Fäzes \(Kot\) gemeinsam, während Trockentrenntoiletten Urin und Fäzes separiert sammeln.[^1] 
 
 ### Trennung
 
-Im Bereich der wasserlosen Toiletten kann zwischen Komposttoiletten und Trockentrenntoiletten unterscheiden werden. Komposttoiletten sammeln Fäkalien, also Urin und Fäzes \(Kot\) gemeinsam, während Trockentrenntoiletten Urin und Fäzes separiert sammeln.[^1] Fäkalien setzen sich zu 90 % aus vergleichsweise leicht nachzubehandelndem Urin und zu 10 % aus stark keimbelasteten Fäzes zusammen. Der Urin wird im vorderen Bereich der “Toilettenschüssel” aufgefangen und in einen Sammelbehälter geleitet, während Fäzes und Toilettenpapier im hinteren Bereich der “Toilettenschüssel” aufgefangen werden.
+Der Urin wird im vorderen Bereich der “Toilettenschüssel” aufgefangen und in einen Sammelbehälter geleitet, während Fäzes und Toilettenpapier im hinteren Bereich der “Toilettenschüssel” aufgefangen werden.
 
 ### Einstreu
 
