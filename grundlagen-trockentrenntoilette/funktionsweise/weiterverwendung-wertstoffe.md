@@ -30,9 +30,9 @@ Tabelle: Nährstoffbedarf nach Pflanzenart[^9]
 
 Pflanzen, die frisch verzehrt werden, sollten nur mit Urin gedüngt werden, der bei über 20°C gelagert wurde.[^2] Eine Düngung mit Urin sollte nur im Zeitraum bis einen Monat vor der Ernte vorgenommen werden.[^3] Beim Düngen sollten zudem die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Wertstoffe im Boden gespeichert werden können.[^11] <die letzten beiden Sätze widersprechen sich latent>
 
-Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden. Der Urin sollte dafür möglichst mit Wasser bis zu einem Verhältnis von 1:10 verdünnt werden.[^7] Die Düngung kann jedoch auch an dem Stickstoffbedarf der Pflanzen orientiert erfolgen. 
+Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden. Der Urin sollte dafür möglichst mit Wasser bis zu einem Verhältnis von 1:10 verdünnt werden.[^7] Die Düngung kann auch an dem Stickstoffbedarf der Pflanzen orientiert erfolgen. 
 
-In der Praxis haben wir festgestellt, dass  die Mengen des angefallen Urins meist die verfügbare Anbauflächen überschreiten bzw. das Interesse an einer Urindüngung kaum vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Diese werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
+In der Praxis haben wir festgestellt, dass die Mengen des angefallen Urins meist die verfügbare Anbauflächen überschreiten bzw. das Interesse von Veranstalter*/innen an Urindüngung kaum vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Wiesen werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
 
 Die Hygienisierungsdauer von 6 Monate führt, abhängig vom Veranstaltungsdatum, meist zu einer Urin-Nutzung im Folgejahr. Eine Lagerung des Urins bei starkem Frost kann problematisch sein, da das Ausdehnen der gefrorenen Flüssigkeit den Aufbewahrungscontainer beschädigen kann.
 
@@ -44,7 +44,7 @@ Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark ke
 
 Für die Dauer der Hygienisierungs muss der Zugang zu den Fäzes beschränkt sein.[^14]
 
-Die Hyginisierungsverfahren sind in Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt sind, oder die Risiken eines Falschumgangs als hoch eingeschätzt werden, können die Fäzes mit Wasser aufgeschlemmt <was ist das für ein Wort?> von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden. Je nach Bundesland werden zudem von einzelnen Kompostierungswerken, die Fäkalien annehmen dürfen, Klärschlammabfälle kompostiert.[^15]
+Die Hyginisierungsverfahren sind in Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. In dem Fall, dass Möglichkeiten zur Hygienisierung eingeschränkt sind, oder das Risiko eines Falschumgangs als hoch eingeschätzt wird, können die Fäzes mit Wasser aufgeschlemmt <was ist das für ein Wort?> von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden. Je nach Bundesland werden zudem von einzelnen Kompostierungswerken, die Fäkalien annehmen dürfen, Klärschlammabfälle kompostiert.[^15]
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
 
