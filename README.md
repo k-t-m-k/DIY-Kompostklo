@@ -1,8 +1,6 @@
-# DIY-Kompostklo
+# D.I.Y. Dry Toilets
 
-Bau und Betrieb von mobilen Trockentrenntoiletten
-
-KTMK - Kollektiv für Trockentoiletten-Manufaktur-Kunst Lichtenberg
+The KTMK (Kollektiv für Trockentoiletten-Manufaktur-Kunst Lichtenberg) builds and maintains dry toilets.
 
 [k-t-m-k.github.io](https://k-t-m-k.github.io)
 
