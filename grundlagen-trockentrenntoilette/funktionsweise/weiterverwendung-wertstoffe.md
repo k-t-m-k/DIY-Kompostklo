@@ -1,10 +1,10 @@
-## Weiterverwendung Wertstoffe
+## Weiterverwendung der (Abfall- bzw.) Wertstoffe
 
-### Urin
+### Bestandteile des Urins
 
-Urin ist üblicherweise unbedenklich und bakteriologisch steril, bei akuten Erkrankungen können jedoch Keime enthalten sein.[^1] Mittels Ablagerung bzw. Abstehen über einen Zeitraum von 6 Monaten bei 4°C können Krankheitserreger sicher auf ein ungefährliches Maß reduziert werden. Pflanzen die frisch verzehrt werden, sollten nur mit Urin gedüngt werden, der bei über 20°C gelagert wird.[^2] Eine Düngung sollte nicht innerhalb des Zeitraums von einem Monat vor der Ernte erfolgen.[^3] Über den Urin werden Medikament- und Hormonrückstände ausgeschieden.[^4]
+Urin ist üblicherweise unbedenklich und bakteriologisch steril. Bei akuten Erkrankungen kann er jedoch Keime enthalten.[^1] Mittels Ablagerung bzw. Abstehen über einen Zeitraum von 6 Monaten bei 4°C können Krankheitserreger sicher auf ein ungefährliches Maß reduziert werden. Über Urin werden zudem Medikamenten- und Hormonrückstände ausgeschieden.[^4]
 
-Die im Urin enthaltenen Nährstoffwerte sind von der Ernährung abhängig und unterscheiden sich in gewissem Rahmen.[^5] Die Hauptnährelemente betragen pro Liter Urin ca.:[^6]
+Die im Urin enthaltenen Nährstoffwerte sind von der Ernährung abhängig und unterscheiden sich in diesem Rahmen.[^5] Die Hauptnährelemente betragen pro Liter Urin ca.:[^6]
 
 * 7,8g Stickstoff
 
@@ -12,7 +12,11 @@ Die im Urin enthaltenen Nährstoffwerte sind von der Ernährung abhängig und un
 
 * 1,8g Kalium
 
-Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden, möglichst verdünnt mit Wasser bis zu einem Verhältnis von 1:10.[^7] Die Düngung kann jedoch auch Stickstofforientiert nach dem Pflanzenbedarf erfolgen. „Stickstoff gilt als wichtigster Nährstoff, da er wesentlicher Baustein für die Eiweißstoffe der Pflanze ist. Deshalb ist die exakte Ermittlung des optimalen Düngebedarfes besonders wichtig. Während bei zu niedrigem N-Einsatz das mögliche Ertragspotenzial nicht ausgeschöpft wird, kann zu hohe N-Düngung nicht nur zu Mindererträgen, Qualitätseinbußen und ökonomischen Verlusten, sondern auch zu Umweltbelastungen führen\[…\].“[^8] Der Stickstoffbedarf verschiedener Pflanzenarten ist nachfolgend angegeben.
+### Stickstoff
+
+„Stickstoff gilt als wichtigster Nährstoff, da er wesentlicher Baustein für die Eiweißstoffe der Pflanze ist. Deshalb ist die exakte Ermittlung des optimalen Düngebedarfes besonders wichtig. Während bei zu niedrigem N-Einsatz das mögliche Ertragspotenzial nicht ausgeschöpft wird, kann zu hohe N-Düngung nicht nur zu Mindererträgen, Qualitätseinbußen und ökonomischen Verlusten, sondern auch zu Umweltbelastungen führen\[…\].“[^8]
+
+Der Stickstoffbedarf verschiedener Pflanzenarten ist nachfolgend angegeben.
 
 | Nährelement | Starkzehrer \[g/m²\] | Mittelzehrer \[g/m²\] | Schwachzehrer \[g/m²\] |
 | :--- | :--- | :--- | :--- |
@@ -22,19 +26,25 @@ Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegang
 
 Tabelle: Nährstoffbedarf nach Pflanzenart[^9]
 
-In der Praxis haben wir festgestellt, dass bisher die Mengen des angefallen Urins die verfügbare Anbauflächen überschreiten bzw. das Interesse an einer Urindüngung eingeschränkt vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Diese werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
+### Düngen mit Urin
 
-Mit Berücksichtigung der Hygienisierungsdauer von 6 Monate bedingt dies abhängig vom Veranstaltungsdatum meistens eine Urin-Nutzung im Folgejahr. Eine Lagerung bei starkem Frost könnte problematisch sein, da das Ausdehnen des Urins ein Beschädigen der Container nach sich ziehen kann. Beim Düngen sollten die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Stoffe in Bodenvorräten gespeichert werden können.[^11]
+Pflanzen, die frisch verzehrt werden, sollten nur mit Urin gedüngt werden, der bei über 20°C gelagert wurde.[^2] Eine Düngung mit Urin sollte nur im Zeitraum bis einen Monat vor der Ernte vorgenommen werden.[^3] Beim Düngen sollten zudem die Pflanzenwuchsphasen beachtet werden. Ein Ausbringen \(nach Hygienisierungsdauer\) Ende Herbst/ Anfang Winter ist möglich, da die Wertstoffe im Boden gespeichert werden können.[^11] <die letzten beiden Sätze widersprechen sich latent>
+
+Als Richtwert kann eine Düngung von einem Liter Urin pro Quadratmeter ausgegangen werden. Der Urin sollte dafür möglichst mit Wasser bis zu einem Verhältnis von 1:10 verdünnt werden.[^7] Die Düngung kann auch an dem Stickstoffbedarf der Pflanzen orientiert erfolgen. 
+
+In der Praxis haben wir festgestellt, dass die Mengen des angefallen Urins meist die verfügbare Anbauflächen überschreiten bzw. das Interesse von Veranstalter*/innen an Urindüngung kaum vorhanden ist. Daher ist die Düngung von Wiesen eine Option für die Ausbringung. Wiesen werden mit zwischen 6 und 12g Stickstoff pro m² gedüngt.[^10]
+
+Die Hygienisierungsdauer von 6 Monate führt, abhängig vom Veranstaltungsdatum, meist zu einer Urin-Nutzung im Folgejahr. Eine Lagerung des Urins bei starkem Frost kann problematisch sein, da das Ausdehnen der gefrorenen Flüssigkeit den Aufbewahrungscontainer beschädigen kann.
 
 ### Fäzes
 
-Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark keimreduzierende Nachbehandlung \(Hygienisierung\). Möglichkeiten bieten sich per Kompostierung oder thermischer Nachbehandlung. Über den Umfang der nötigen Hygienisierungsdauer bzw. den dabei nötigen Temperaturen sowie Art und Umfang der zu betrachtenden Krankheitserreger gibt es unterschiedliche Ansichten. Während die WHO ein Ablagern bei 2-20°C für eine Dauer von 1,5-2 Jahren als ausreichend sieht, ist eine Anwendung der Bioabfallverordnung \(BioAbfV\) auf die Hygienisierung von Fäzes deutlich anspruchsvoller. Sie gibt Rahmendaten zur Behandlung vor, nach der eine Prozessprüfung, Prozessüberwachung und Prüfung der hygienisierten Bioabfälle nötig ist.[^12]
+Kot ist keimbelastet und benötigt verantwortungsvollen Umgang und eine stark keimreduzierende Nachbehandlung \(Hygienisierung\). Möglichkeiten sind hierbei die Kompostierung oder die thermische Nachbehandlung. Über das Ausmaß der notwendigen Hygienisierungsdauer bzw. den dabei nötigen Temperaturen sowie über die Art und den Umfang der zu berücksichtigenden Krankheitserreger gibt es unterschiedliche Ansichten. Während die WHO ein Ablagern bei 2-20°C für eine Dauer von 1,5-2 Jahren als ausreichend ansieht, ist eine Anwendung der Bioabfallverordnung \(BioAbfV\) auf die Hygienisierung von Fäzes deutlich anspruchsvoller. Sie gibt Rahmendaten zur Behandlung vor, laut denen eine Prozessprüfung, Prozessüberwachung und Prüfung der hygienisierten Bioabfälle notwendig ist.[^12]
 
 > „Die Prozesssteuerung in Kompostierungsanlagen muss für die Hygienisierung der Bioabfälle so vorgenommen werden, dass über mehrere Wochen ein thermophiler Temperaturbereich und eine hohe biologische Aktivität bei günstigen Feuchte- und Nährstoffverhältnissen sowie eine optimale Struktur und Luftführung gewährleistet sind. Der Wassergehalt soll mindestens 40 % betragen und der pH-Wert um 7 liegen. Im Verlauf der aeroben hygienisierenden Behandlung muss eine Temperatur von mindestens 55 °C über einen möglichst zusammenhängenden Zeitraum von 2 Wochen, von 60 °C über 6 Tage oder von 65 °C über 3 Tage auf das gesamte Rottematerial einwirken.”[^13]
 
-Während der Hygienisierungsdauer muss der Zugang zu den gesammelten Fäzes beschränkt sein.[^14]
+Für die Dauer der Hygienisierungs muss der Zugang zu den Fäzes beschränkt sein.[^14]
 
-Die Hyginisierungsverfahren sind Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. Falls die Möglichkeiten zur Hygienisierung eingeschränkt ist, oder die Risiken eines Falschumgangs als zu hoch betrachtet werden, können die Fäzes mit Wasser aufgeschlemmt von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden. Bundeslandabhängig werden Klärschlammabfälle kompostiert. Einzelne Kompostierungswerke dürfen Fäkalien daher annehmen.[^15]
+Die Hyginisierungsverfahren sind in Kapitel 6 beschrieben, jedoch anspruchsvoll. Unternehmen die eine zugelassene Kompostierungsanlage für menschliche Fäkalien haben und die Fäkalien abnehmen, sind uns derzeit nicht bekannt. In dem Fall, dass Möglichkeiten zur Hygienisierung eingeschränkt sind, oder das Risiko eines Falschumgangs als hoch eingeschätzt wird, können die Fäzes mit Wasser aufgeschlemmt <was ist das für ein Wort?> von Entsorgungsunternehmen mobiler \(Chemie-\)Toiletten abgeholt werden. Je nach Bundesland werden zudem von einzelnen Kompostierungswerken, die Fäkalien annehmen dürfen, Klärschlammabfälle kompostiert.[^15]
 
 [^1]: vgl. Baumeyer 2003, Schönning and Stenström 2004
 
