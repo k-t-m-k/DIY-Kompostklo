@@ -18,7 +18,7 @@ Teichfolie dehnt sich unter der Gewichtslast des Urins aus und bildet Sammelstel
 | :--- | :--- |
 | Bild: Stehrurinal einfach \(KTMK, 2015\) | Bild: Stehurinal Ablauf, Anschluss abgetrennt \(KTMK, 2015\) |
 
-Im zweiten Beispiel ist zusätzlich der gesamte Bereich noch mit einem Sieb \(hier genutzt: Baustoff für Häuserfassaden\) überspannt. Ursprünglich zur Vermeidung von Verstopfungen im Ablauf gedacht, entstehen so am Urinal keine Spritzer. Die Lösung wird von den Nutzendenals Vorteil gegenüber Pissrinnen ohne Sieb wahrgenommen.
+Im zweiten Beispiel ist zusätzlich der gesamte Bereich noch mit einem Sieb \(hier genutzt: Baustoff für Häuserfassaden\) überspannt. Ursprünglich zur Vermeidung von Verstopfungen im Ablauf gedacht, entstehen so am Urinal keine Spritzer. Die Lösung wird von den Nutzenden als Vorteil gegenüber Pissrinnen ohne Sieb wahrgenommen.
 
 ![](/assets/Bild_Stehurinal_Sieb_05-2016.jpg)Bild: Stehurinal mit Netz \(KTMK, 2016\)
 
